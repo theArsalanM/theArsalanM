@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arsalan</h1>
-<h3 align="center">A passionate software developer from England :england: </h3>
+<h3 align="center">A passionate software developer from United Kingdom 🇬🇧: </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thearsalanm&label=Profile%20views&color=0e75b6&style=flat" alt="thearsalanm" /> </p>
 
@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on [ChEBI](https://gitlab.ebi.ac.uk/chembl/chebi)
 
-- 💬 Ask me about **Python/Django**
-
-- 📫 How to reach me **ping.arsalan@gmail.com**
+- 💬 Ask me about **Python, Django, Vue, DevOps or Integrations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
