@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arsalan</h1>
 <h3 align="center">A passionate software developer from United Kingdom 🇬🇧: </h3>
+<h4>Check my <a href="https://gitlab.ebi.ac.uk/muhammad">GitLab</a> profile too!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thearsalanm&label=Profile%20views&color=0e75b6&style=flat" alt="thearsalanm" /> </p>
 
