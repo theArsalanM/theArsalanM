@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thearsalanm" alt="thearsalanm" /></a> </p>
 
-- 🔭 I’m currently working on [ChEBI](https://gitlab.ebi.ac.uk/chembl/chebi)
+- 🔭 I’m currently working on [ChEBI](https://gitlab.ebi.ac.uk/chembl/chebi/chebi-2.0)
 <h5>Check my <a href="https://gitlab.ebi.ac.uk/muhammad">GitLab</a> profile too!</h5>
 
 - 💬 Ask me about **Python, Django, Vue, DevOps or Integrations**
